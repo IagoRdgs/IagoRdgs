@@ -11,3 +11,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+
+<div align="center">
+  Here my Instagram<br><br>
+  <a href="https://www.instagram.com/tryiago/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" target="_blacket" alt="Instagram"/></a>
+</div>
