@@ -1,5 +1,5 @@
-## Bem-vindo(a) ao perfil do Hipnos 🎭 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=32&pause=1000&color=5000F7&width=435&height=70&lines=Hey%2C+welcome+to+my+profile!)](https://git.io/typing-svg) 
+## Hi, i'm Iago, or rather... Hipnos! 🎭
  <div>
    <a href="https://github.com/HipnosM">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HipnosM&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
