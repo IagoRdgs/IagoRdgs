@@ -10,13 +10,18 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
 
 
 <div align="center">
-  Here my Instagram<br><br>
-  <a href="https://www.instagram.com/tryiago/" target="_blank">
-    <img src="http://plone.ufpb.br/dcs/contents/imagens/instagram-logo.png/@@images/image.png" alt="instagram" width="50px" />
+  Contact<br><br>
+  <a href="https://www.linkedin.com/in/iago-hipnos/" target="_blank" style="text-decoration: none;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30px" />
+  </a>
+  <a href="https://www.instagram.com/tryiago/" target="_blank" style="text-decoration: none;">
+    <img src="http://plone.ufpb.br/dcs/contents/imagens/instagram-logo.png/@@images/image.png" alt="Instagram" width="30px" />
   </a>
 </div>
+
 
