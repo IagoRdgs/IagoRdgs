@@ -16,7 +16,7 @@
 <div align="center">
   Here my Instagram<br><br>
   <a href="https://www.instagram.com/tryiago/">
-    <img src="http://plone.ufpb.br/dcs/contents/imagens/instagram-logo.png/@@images/image.png" alt="instagram" width="30px" />
+    <img src="http://plone.ufpb.br/dcs/contents/imagens/instagram-logo.png/@@images/image.png" alt="instagram" width="50px" target="_blank" />
   </a>
 </div>
 
