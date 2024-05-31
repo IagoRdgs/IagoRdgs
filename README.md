@@ -15,5 +15,8 @@
 
 <div align="center">
   Here my Instagram<br><br>
-  <a href="https://www.instagram.com/tryiago/"><img src="https://raw.githubusercontent.com/wendellast/wendellast/main/img/instagram.png" target="_blacket" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/tryiago/">
+    <img src="http://plone.ufpb.br/dcs/contents/imagens/instagram-logo.png/@@images/image.png" alt="instagram" width="30px" />
+  </a>
 </div>
+
