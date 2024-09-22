@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/iago-hipnos/" target="_blank" style="text-decoration: none;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30px" />
   </a>
-  <a href="https://www.instagram.com/tryiago/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/iago.draws/" target="_blank" style="text-decoration: none;">
     <img src="http://plone.ufpb.br/dcs/contents/imagens/instagram-logo.png/@@images/image.png" alt="Instagram" width="30px" />
   </a>
 </div>
