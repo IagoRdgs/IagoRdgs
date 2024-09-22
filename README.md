@@ -2,8 +2,8 @@
 ## Hi, i'm Iago, or rather... Hipnos! 🎭
  <div>
    <a href="https://github.com/HipnosM">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HipnosM&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HipnosM&layout=compact&langs_count=6&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HipnosM&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HipnosM&layout=compact&langs_count=6&theme=radical"/>
 </div>
     
 <div style="display: inline_block"><br>
