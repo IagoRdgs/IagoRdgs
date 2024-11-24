@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=28&pause=1000&color=5000F7&width=435&height=70&lines=Hey%2C+welcome+to+my+profile!)](https://git.io/typing-svg) 
-## Hi, i'm Iago, or rather... Hipnos! 🎭
+## Hi, i'm Iago, or rather... Hypnos! 🎭
 <div align="center">
    <a href="https://github.com/HipnosM">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HipnosM&theme=radical&show_icons=true&hide_border=false&count_private=true"/>
