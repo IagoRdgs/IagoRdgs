@@ -61,11 +61,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-<div align="center">
-  Contact<br><br>
-  <a href="https://www.linkedin.com/in/iago-hipnos/" target="_blank" style="text-decoration: none;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30px" />
-  </a>
-</div>
-
 
