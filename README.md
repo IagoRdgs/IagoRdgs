@@ -12,10 +12,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HipnosM&layout=compact&langs_count=5&theme=radical" alt="languages graph" />
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=HipnosM&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-<div style="display: inline_block" align="center"><br>
-  
-</div>
+      
 <br>
 
 <div align="left">
