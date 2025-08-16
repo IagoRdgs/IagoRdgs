@@ -1,6 +1,6 @@
 ![Developer Banner 4](https://ishan-rest.vercel.app/svg/banner/dev4/IagoAndre)
 
-👋 Olá! Eu sou o Iago André — apaixonado por tecnologia, inovação e aprendizado constante.  
+👋 Olá! Eu sou o Iago Rodrigues — apaixonado por tecnologia, inovação e aprendizado constante.  
 💻 Desenvolvedor full-stack, atuando com front-end, back-end e cloud, focado em criar soluções eficientes que geram impacto real.  
 🚀 Experiência sólida em JavaScript, React, Node.js, Next.js, bancos de dados SQL, além de ferramentas de design, gestão e DevOps.  
 🔗 Sou movido por desafios, trabalho colaborativo e código limpo.  
