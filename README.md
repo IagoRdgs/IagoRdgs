@@ -8,8 +8,8 @@
 
 <div align="center">
    <a href="https://github.com/HipnosM">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HipnosM&theme=radical&show_icons=true&include_all_commits=true&hide_border=false&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HipnosM&layout=compact&langs_count=5&theme=radical" alt="languages graph" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HipnosM&layout=compact&langs_count=5&theme=radical" alt="languages graph" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HipnosM&theme=radical&show_icons=true&include_all_commits=true&hide_border=false&count_private=true"/>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=HipnosM&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
       
