@@ -1,6 +1,6 @@
 ![Developer Banner 4](https://ishan-rest.vercel.app/svg/banner/dev4/IagoRdgs)
 
-👋 Olá! Eu sou o Iago Rodrigues — apaixonado por tecnologia, inovação e aprendizado constante.  
+👋 Olá! Eu sou Iago Rodrigues — apaixonado por tecnologia, inovação e aprendizado constante.  
 💻 Desenvolvedor full-stack, atuando com front-end, back-end e cloud, focado em criar soluções eficientes que geram impacto real.  
 🚀 Experiência sólida em JavaScript, React, Node.js, Next.js, bancos de dados SQL, além de ferramentas de design, gestão e DevOps.  
 🔗 Sou movido por desafios, trabalho colaborativo e código limpo.  
@@ -8,11 +8,19 @@
 
 <div align="center">
    <a href="https://github.com/HipnosM">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HipnosM&layout=compact&langs_count=5&theme=radical" alt="languages graph" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HipnosM&theme=radical&show_icons=true&include_all_commits=true&hide_border=false&count_private=true"/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=HipnosM&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagordgs&layout=compact&langs_count=5&theme=radical" alt="languages graph" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagordgs&theme=radical&show_icons=true&include_all_commits=true&hide_border=false&count_private=true"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=iagordgs&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
       
+<br>
+
+<p align="center" border-radius="10">
+  <a href="https://discord.gg/5zfuDJEKF7">
+    <img style="border-radius: 10px;" src="https://discordapp.com/api/guilds/1112920281367973900/widget.png?style=banner4" alt="Servidor dos Programadores">
+  </a>
+</p> 
+
 <br>
 
 <div align="left">
